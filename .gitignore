@@ -1,0 +1,14 @@
+/Library/PackageCache
+/Assets/Scenes/VideoPrologue.mp4
+/Assets/Scenes/VideoPrologue.mp4.meta
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+[Bb]ilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+!/[Aa]ssets/**/*.meta
+.vs/
+.gradle/
