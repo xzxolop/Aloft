@@ -26,7 +26,7 @@
 ### Установка
 
 1. Склонируйте репозиторий на свой компьютер:
-git clone "https://github.com/xzxolop/aloft-UnityProject.git"
+git clone "https://github.com/xzxolop/Aloft-unity.git"
 2. Откройте проект в Unity.
 3. Соберите его.
 4. "Наслаждайтесь" игрой!
